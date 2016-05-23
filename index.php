@@ -29,5 +29,5 @@ class HouseBuilder
 $BuildMeAHouse = new HouseBuilder(2,'Red','Semi-Detached','Stevenage');
 $GiveMeAHouse = $BuildMeAHouse->build();
 
-echo $GiveMeAHouse;
+echo $GiveMeAHouse; 
  ?>
